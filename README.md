@@ -6,3 +6,4 @@
 * [**Practica 4 Documentacion**](https://github.com/xzhou12/m08-despl-app-web/tree/UF4/UF4/Practica%204%20Documentaci%C3%B3n)
 ## [**UF1**](https://github.com/xzhou12/m08-despl-app-web/tree/UF1/UF1)
 * [**Practica 1 Comandos FTP**](https://github.com/xzhou12/m08-despl-app-web/tree/UF1/UF1/Practica%201_%20Comandos%20FTP)
+* [**Practica 2 Filezilla FTP**](https://github.com/xzhou12/m08-despl-app-web/tree/UF1/UF1/Practica2_%20FIlezilla%20FTP)
